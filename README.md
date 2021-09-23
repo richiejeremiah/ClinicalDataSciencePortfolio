@@ -4,4 +4,4 @@ A collection of selected clinical data science and artificial intelligence (AI) 
 # Contents
 * Python Data Analysis: Exploring and analysing medical records from a pediatric clinical dataset collected from Kakamega county in Kenya using Pandas, Numpy and Scipy libraries. 
 Statistical analysis and meaningful data visualization techniques are perfomed on the clinical data.  
-* Decision Tree: Using the above data a decision tree model is build to predict malaria in children based on features that mainly include pediatric sympotms, infant age and sex
+* Decision Tree Algorithm: Using the above data a decision tree model is build to predict malaria in children based on features that mainly include pediatric sympotms, infant age and sex
