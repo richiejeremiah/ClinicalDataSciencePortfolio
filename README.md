@@ -6,3 +6,4 @@ A collection of selected clinical data science and artificial intelligence (AI) 
 Statistical analysis and meaningful data visualization techniques are perfomed on the clinical data.  
 * Decision Tree Algorithm: Using the above data a decision tree model is build to predict malaria in children based on features that mainly include pediatric sympotms, infant age and sex
 * Deep Learning: Prediction of pediatric pneumonia on chest x-rays using a Convolutional Neural Network model
+
